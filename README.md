@@ -13,3 +13,14 @@ Orthanc will hopefully eventually become the main organisational tool in my life
   - Android
   - iOS
 
+## Inspiration
+Orthanc takes inspiration from the following tools/websites:
+- General/Other
+  - [Workflowy](https://workflowy.com/)
+  - [Dynalist](https://dynalist.io/)
+- CRMs
+  - [Monica](https://github.com/monicahq/monica)
+  - [SuiteCRM](https://suitecrm.com/)
+  - [Zurmo](http://zurmo.org/)
+
+
