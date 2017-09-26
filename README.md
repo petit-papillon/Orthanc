@@ -2,6 +2,7 @@
 A CRM for personal use
 
 ## Purpose
+
 Orthanc will hopefully eventually become the main organisational tool in my life. Eventually it should encompase the following areas:
 - Task Management
 - To Do List Management
@@ -13,9 +14,8 @@ Orthanc will hopefully eventually become the main organisational tool in my life
   - Android
   - iOS
 
-# Test
-
 ## Inspiration
+
 Orthanc takes inspiration from the following tools/websites:
 - General/Other
   - [Workflowy](https://workflowy.com/)
